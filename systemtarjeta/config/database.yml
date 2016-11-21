@@ -14,8 +14,7 @@ default: &default
   username: jjncimjntlvbic
   password: DUo4Lr2W_Q5mGOi6GzwQGKPBT6
   host: ec2-54-75-228-51.eu-west-1.compute.amazonaws.com
-    pool: 5
-      port: 5432
+     
 
 
 
